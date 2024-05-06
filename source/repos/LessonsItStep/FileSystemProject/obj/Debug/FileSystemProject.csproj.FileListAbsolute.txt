@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\bin\Debug\FileSystemProject.exe.config
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\bin\Debug\FileSystemProject.exe
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\bin\Debug\FileSystemProject.pdb
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\obj\Debug\FileSystemProject.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\obj\Debug\FileSystemProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\obj\Debug\FileSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\obj\Debug\FileSystemProject.exe
+C:\Users\ACER\source\repos\LessonsItStep\FileSystemProject\obj\Debug\FileSystemProject.pdb

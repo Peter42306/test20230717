@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\bin\Debug\LessonITStepFileSystem.exe.config
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\bin\Debug\LessonITStepFileSystem.exe
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\bin\Debug\LessonITStepFileSystem.pdb
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.Properties.Resources.resources
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.exe
+C:\Users\ACER\source\repos\LessonsItStep\LessonITStepFileSystem\obj\Debug\LessonITStepFileSystem.pdb

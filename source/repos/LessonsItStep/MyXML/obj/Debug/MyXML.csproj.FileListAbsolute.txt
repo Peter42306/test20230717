@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\MyXML.exe.config
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\MyXML.exe
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\MyXML.pdb
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\obj\Debug\MyXML.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\obj\Debug\MyXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\obj\Debug\MyXML.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\obj\Debug\MyXML.exe
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\obj\Debug\MyXML.pdb
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\NLog.config
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\NLog.dll
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\NLog.xml
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\obj\Debug\MyXML.csproj.CopyComplete
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\LessonsItStep\MyXML\bin\Debug\Newtonsoft.Json.xml
